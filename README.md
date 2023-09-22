@@ -1,3 +1,9 @@
+- Andrea De Vita
+- Enrico Lupi
+- Manfredi Miranda
+- Francesco Zane
+
+-----------------------
 # QUAX
 
 Final project for the **Laboratory of Computational Physics (Mod. B)** course, Physics of Data degree at University of Padua.
